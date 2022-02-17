@@ -1,0 +1,5 @@
+
+write Enter the height of one of the side
+read height
+sum_of_square =height*4
+write sum_of_square
